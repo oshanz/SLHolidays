@@ -19,5 +19,26 @@
         "Public": true,
         "Bank": true,
         "Mercantile": false
+    },
+    {
+        "date": "2014-02-04",
+        "event": "National Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
+    },
+    {
+        "date": "2014-02-14",
+        "event": "Navam Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-02-27",
+        "event": "Maha Shivarathri Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
     }
 ]
