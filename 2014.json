@@ -1,2 +1,23 @@
-{
-}
+[
+    {
+        "date": "2014-01-14",
+        "event": "Tamil Thai Pongal Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
+    },
+    {
+        "date": "2014-01-14",
+        "event": "Milad-Un-Nabi (Holy Prophet’s Birthday)",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
+    },
+    {
+        "date": "2014-01-15",
+        "event": "Duruthu Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    }
+]
