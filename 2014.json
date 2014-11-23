@@ -131,5 +131,47 @@
         "Public": true,
         "Bank": true,
         "Mercantile": false
+    },
+    {
+        "date": "2014-10-05",
+        "event": "d-Ul-Alha (Hadji Festival Day)",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-10-08",
+        "event": "Vap Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-10-22",
+        "event": "Deepavali Festival Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-11-06",
+        "event": "Ill Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-12-06",
+        "event": "Unduvap Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-12-25",
+        "event": "Christmas Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
     }
 ]
