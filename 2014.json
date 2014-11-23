@@ -96,5 +96,40 @@
         "Public": true,
         "Bank": true,
         "Mercantile": true
+    },
+    {
+        "date": "2014-06-12",
+        "event": "Poson Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-07-12",
+        "event": "Esala Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-07-29",
+        "event": "Id-Ul-Fitr (Ramazan Festival Day)",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-07-29",
+        "event": "Id-Ul-Fitr (Ramazan Festival Day)",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-09-08",
+        "event": "Binara Full moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
     }
 ]
