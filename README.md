@@ -1,7 +1,7 @@
 SLHolidays
 ==========
 
-Public &amp; Mercantile holidays in Sri Lanka - JSON
+Public,Bank &amp; Mercantile holidays in Sri Lanka - JSON
 
 
 To access 2014 JSON directly
