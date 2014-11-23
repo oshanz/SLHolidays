@@ -40,5 +40,61 @@
         "Public": true,
         "Bank": true,
         "Mercantile": false
+    },
+    {
+        "date": "2014-03-16",
+        "event": "Medin Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-04-13",
+        "event": "Day prior to Sinhala and Tamil New Year Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
+    },
+    {
+        "date": "2014-04-14",
+        "event": "Sinhala and Tamil New Year Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
+    },
+    {
+        "date": "2014-04-14",
+        "event": "Bak Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
+    },
+    {
+        "date": "2014-04-18",
+        "event": "Good Friday",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-05-01",
+        "event": "May Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
+    },
+    {
+        "date": "2014-05-14",
+        "event": "Wesak Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": false
+    },
+    {
+        "date": "2014-05-15",
+        "event": "Day following Wesak Full Moon Poya Day",
+        "Public": true,
+        "Bank": true,
+        "Mercantile": true
     }
 ]
